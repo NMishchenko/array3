@@ -1,7 +1,7 @@
 from TK-1 import get_list_from_console_input
 from TK_2 import get_min_max_from_list
 from TK_3 import get_list_divided_by_avg
-from TK-4 import get_list_multiplied_by_avg
+from TK_4 import get_list_multiplied_by_avg
 from TK-5 import get_list_sqrt
 
 if __name__ == '__main__':
